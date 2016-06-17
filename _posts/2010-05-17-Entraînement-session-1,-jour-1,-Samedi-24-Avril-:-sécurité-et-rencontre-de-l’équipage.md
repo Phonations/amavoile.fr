@@ -1,3 +1,5 @@
+TODO PHOTO
+
 Après une bonne nuit dans un lit, je prends la direction du quartier général de Clipper Venture sur le port de [Gosport](https://www.google.fr/maps/place/Gosport,+Hampshire,+Royaume-Uni/@50.8067683,-1.1855995,13z/data=!3m1!4b1!4m5!3m4!1s0x487466142f9bda5f:0x5312889e08c5e933!8m2!3d50.794995!4d-1.117547?hl=fr). Après un accueil chaleureux, un petit thé et l'attente des derniers retardataires, nous commençons notre journée briefing sécurité. L'idée est de nous sensibiliser aux dangers inhérents à la pratique de la voile au large et de nous donner des bases de premiers secours. Brulure, hypothermie, fractures internes, fractures ouvertes, blessures... Tout y passe ou presque! Beaucoup d'infos et le tout en anglais évidemment...
 
 Nous apprenons ensuite à réagir dans de tels situations. Prendre le temps de réfléchir un minimum avant d'agir trop vite, comment déplacer un corps inconscient, dans quelle position mettre la personne, quels premiers soins lui apporter (massage cardiaque, médicament, etc...)
