@@ -6,7 +6,7 @@ Je continue ma prospection au fil des rencontres. Entre la famille, les amis, le
 
 En attendant la procédure d'inscription continue. J'ai choisi ma semaine pour la première session d'entraînement qui aura donc normalement lieu du 28 mars au 3 avril.
 
-Il va maintenant falloir réserver un billet d'avion pour aller à Gosport (si, si, c'est le vrai nom d'une vraie ville!) en Angleterre. Si d'ailleurs vous avez des connaissances dans le coin qui seraient susceptible de m'aider...
+Il va maintenant falloir réserver un billet d'avion pour aller à [Gosport](https://www.google.fr/maps?f=q&source=s_q&hl=fr&geocode&q=Gosport,+Hampshire,+Royaume-Uni&sll=46.75984,1.738281&sspn=7.467416,19.753418&ie=UTF8&hq&hnear=Gosport,+Hampshire,+Royaume+Uni&z=12) (si, si, c'est le vrai nom d'une vraie ville!) en Angleterre. Si d'ailleurs vous avez des connaissances dans le coin qui seraient susceptible de m'aider...
 
 Cet entrainement sera également une deuxième épreuve de sélection. Je vais donc tout mettre en œuvre dès maintenant pour la passer avec succès.
 
