@@ -1,0 +1,15 @@
+TODO PHOTO
+
+La nuit a encore une fois été intense. Première question : gardons-nous le spi? Le vote donne un résultat à 50/50. Je vote pour!!! Le problème est que dans mon quart, je suis apparemment le seul suffisamment confiant pour barrer sous spi la nuit. Le quart s’annonce fatiguant... Après quelques discussions, Ben, skipper et donc décisionnaire, me demande de barrer jusqu’au prochain changement de quart. Il me relaiera si nécessaire.
+
+Je conduis donc ce gros bateau à une vitesse d’un peu plus de dix noeuds, sous spi, droit vers Madère, et droit vers la lune. Moment incroyablement grisant et magique. Impossible de m’enlever ce sourire jusqu’aux oreilles.
+
+TODO PHOTO
+
+Après une pointe à 12,6 noeuds, le quart suivant prend le relais et je vais trouver un repos bien mérité. Mais j’avoue que j’ai les veines pleines d’adrénaline après tout ces surfs...
+Au milieu du quart de repos, tout le monde debout. Le vent à grimpé et il est temps d’affaler les spi pour mettre le yankee 2 tangonné en ciseaux par rapport à la grand-voile. L’opération est laborieuse et dure deux bonnes heures pendant lesquelles Ben me demande de barrer alors qu’il donne les ordres de manoeuvre. On dirait que j’ai bien trouvé ma place à bord. J’en suis bien content mais j’avoue que barrer aussi longtemps un si gros bateau n’est pas de tout repos, surtout de nuit quand les lampes torches des équipiers à la manoeuvre empêchent de trouver un repère dans le ciel. Nous continuons donc notre route ainsi, “full main and poled yankee 2” Je barre beaucoup.
+
+Les quarts s'enchaînent et au matin, surprise, nous sommes au milieu du peloton de tête. Les efforts payent et ça fait plaisir! Alors que nous étions descendus à la sixième place, nous pouvons maintenant viser la troisième voire la deuxième position.
+Nous naviguons à vue avec certains pendant un moment puis la flotte se sépare à nouveau. Certains sous spi font moins de cap mais plus de vitesse. Nous choisissons une autre option qui consiste à rester comme nous sommes pour faire une route plus directe mais sacrifier un peu de vitesse. Qui a raison? Nous le saurons dans la nuit. Personnellement j’aurai bien gardé le spi... L’arrivée est prévue ce soir entre 22h et minuit.
+
+J’apprendrai après coup que nous n’avons pas vraiment choisi de ne pas envoyé le spi. Des problèmes de drisse nous ont tout simplement empêché de le renvoyer et nous n’avons pu que regarder les autres partir devant. C’est l'inconvénient d’être le seul français. Je ne comprends pas tout ce qui se raconte et passe parfois à côté de certains épisodes...
