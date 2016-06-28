@@ -7,12 +7,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Amavoile
+subtitle: "Et si on parlait de bateaux?"
+email: pierig.bertho@gmail.com
+name: Pierig Bertho
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  Et si on parlait de bateaux?
 baseurl: "/amavoile.fr/" # the subpath of your site, e.g. /blog/
 url: "https:/phonations.github.com/" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -65,29 +65,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: Pierigb
+    url: https://twitter.com/Pierigb
+    desc: Suivez moi Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: pierig.bertho
     url: 
-    desc: Friend me on Facebook
+    desc: Demandez moi en ami sur Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
+    username: PierigBertho
+    url: https://github.com/PierigBertho
+    desc: Suivez moi GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Pierig Bertho
+    url: https://fr.linkedin.com/in/pierig-bertho-3775b51/fr
     desc: Connect with me on LinkedIn
     share: true
 
@@ -96,7 +96,7 @@ social:
     username: 
     url: 
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
