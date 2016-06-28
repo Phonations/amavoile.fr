@@ -7,3 +7,4 @@ Après 15 jours de mer non-stop, je suis partagé entre l'envie de continuer cet
 Mais nous ne sommes pas encore arrivés et il faut continuer à avancer vite. Les quarts s'enchaînent les uns après les autres. Parfois dans la bonne humeur, parfois un peu ronchon suite à un réveil difficile. Aujourd'hui je suis un peu bougon. Il faut dire que c'est parfois difficile de vivre à 18 dans un espace aussi restreint. Le seul isolement possible vient avec la musique dans les oreilles, allongé dans sa bannette les yeux fermés...
 
 Et puis il faut bien l'avouer également, toutes ces choses que l'on a à terre et pas sur un bateau commencent forcément à manquer après tout ce temps. Vivement le bon steak à l'arrivée!
+
