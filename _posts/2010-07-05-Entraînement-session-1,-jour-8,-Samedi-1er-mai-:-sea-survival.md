@@ -1,3 +1,8 @@
+---
+title: Entraînement session 1, jour 8, Samedi 1er mai : sea survival
+layout: post
+---
+
 TODO PHOTO
 
 7h, le réveil sonne. La soirée de la veille a été bien arrosée et beaucoup ont une bonne gueule de bois, moi le premier. Un thé, un rapide petit-déjeuner et il est temps de dire au revoir à Merv et Oli. Ces deux compères très différents mais très complémentaires nous ont beaucoup appris tout au long de cette semaine.

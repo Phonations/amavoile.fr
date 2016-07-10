@@ -1,3 +1,8 @@
+---
+title: Jour sans...
+layout: post
+---
+
 TODO PHOTO
 
 Depuis hier nous sommes troisième. Un peu déçu après tout ces efforts pour bien faire avancer le bateau. Mais même une troisième c'est le podium, notre objectif serait alors atteint.  Et puis après cette histoire de système de barre qui casse, on ne peut qu'être satisfaits.

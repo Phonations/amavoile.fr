@@ -1,3 +1,8 @@
+---
+title: Lundi 8 août – A la barre!
+layout: post
+---
+
 TODO PHOTO
 
 La nuit a encore une fois été intense. Première question : gardons-nous le spi? Le vote donne un résultat à 50/50. Je vote pour!!! Le problème est que dans mon quart, je suis apparemment le seul suffisamment confiant pour barrer sous spi la nuit. Le quart s’annonce fatiguant... Après quelques discussions, Ben, skipper et donc décisionnaire, me demande de barrer jusqu’au prochain changement de quart. Il me relaiera si nécessaire.

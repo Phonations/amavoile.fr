@@ -1,3 +1,8 @@
+---
+title: Deuxième départ
+layout: post
+---
+
 TODO PHOTO
 
 Après 48 h d’escale nous voici de nouveau en mer. Voir le podium nous a donné envie de monter dessus à notre arrivée à Rio...

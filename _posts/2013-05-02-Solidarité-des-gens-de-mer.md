@@ -1,3 +1,8 @@
+---
+title: Solidarité des gens de mer
+layout: post
+---
+
 Depuis mercredi 24 avril un bateau de plaisance avec 3 personnes à bord est porté disparu au large des Açores. L'équipage a déclenché sa balise de détresse et les secours se sont mis en oeuvre. Le temps passant, la famille et les amis des 3 marins ont monté une cellule de crise pour continuer les recherches. Une page facebook a été créée et un appel à dons pour pouvoir louer du matériel, des bateaux et tout le nécessaire aux secours est en place.
 
 Une grande chaîne de solidarité s'est créée pour continuer les recherches coûte que coûte  Aux dernières nouvelles les 3 marins sont toujours vivant puisqu'ils déclenchent régulièrement leur balise pour être secourus.

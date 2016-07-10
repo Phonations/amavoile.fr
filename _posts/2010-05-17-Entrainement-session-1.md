@@ -1,3 +1,8 @@
+---
+title: Entrainement session 1
+layout: post
+---
+
 Voilà, l'hiver et fini et les vacances au ski également. Un bon début pour un entraînement un peu plus sérieux avec pour objectif la fameuse première session d'entraînement.
 Départ vendredi 23 avril direction [Gosport](https://www.google.fr/maps/place/Gosport,+Hampshire,+Royaume-Uni/@50.8067683,-1.1855995,13z/data=!3m1!4b1!4m5!3m4!1s0x487466142f9bda5f:0x5312889e08c5e933!8m2!3d50.794995!4d-1.117547?hl=fr) pour une semaine de voile intensive!
 

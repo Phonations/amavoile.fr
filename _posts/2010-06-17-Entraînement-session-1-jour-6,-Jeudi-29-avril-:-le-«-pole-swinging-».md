@@ -1,3 +1,8 @@
+---
+title: Entraînement session 1, jour 6, Jeudi 29 avril : le « pole swinging »
+layout: post
+---
+
 TODO PHOTO
 
 Le levé est chaque jour un peu plus difficile mais se passe bien. Sauf ce matin où Dennis est parti sans vraiment dire au revoir. Le reste de l'équipage se lève donc rapidement pour sortir du port. Chacun est un peu surpris de cette réaction de Dennis.

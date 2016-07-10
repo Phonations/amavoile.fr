@@ -1,3 +1,8 @@
+---
+title: La radio de la mer
+layout: post
+---
+
 TODO PHOTO 
 
 Alors que la course 2009-2010 a perdu un bateau en mer d'indonésie, je continue ma recherche de financements. Merci pour votre aide qui m'a permis de participer à une émission à [la radio de la mer](http://laradiodelamer.ouifm.fr/) avec Marjorie Philibert ce vendredi.

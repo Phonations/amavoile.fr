@@ -1,3 +1,8 @@
+---
+title: Mercredi 3 août – A la manoeuvre!
+layout: post
+---
+
 TODO PHOTO
 
 La nuit a été agitée. Pas trop en termes de mer mais plutôt en termes d’activités sur le pont. En envoi de spi de nuit n’est pas forcément des plus aisé sur ce type de bateau.Résultat :

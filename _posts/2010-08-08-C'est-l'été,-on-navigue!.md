@@ -1,3 +1,8 @@
+---
+title: C’est l’été, on navigue!
+layout: post
+---
+
 Et oui, l'été est déjà bien avancé et à l'heure où j'écris cet article, la Clipper Race 2009-2010 est terminée avec une victoire finale de Spirit of Australia. Mais pour plus d'infos mieux vaut visiter directement le [site de la course](http://clipperroundtheworld.com/index.php/home).
 
 En attendant, chaque occasion pour naviguer est bonne et toujours un plaisir. Entre 2 semaines de croisière entre Marseille, la Corse et la Sardaigne, des sorties de voile sportive et des sorties en Skellig je continue d'apprendre tout en prenant plein de plaisir.

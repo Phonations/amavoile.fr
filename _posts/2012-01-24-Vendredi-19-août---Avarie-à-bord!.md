@@ -1,3 +1,8 @@
+---
+title: Avarie à bord!
+layout: post
+---
+
 TODO PHOTO
 
 Tout allait pour le mieux. Une vitesse tout à fait correcte autour de 12 nœuds sous spi lourd avec quelques surfs… D’un coup, bang !!! Ben est à la barre et une rafale nous fait partir à l’abbatée. Le système de barre casse sous ses bras.

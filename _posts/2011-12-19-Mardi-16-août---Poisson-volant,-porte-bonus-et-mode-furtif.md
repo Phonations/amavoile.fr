@@ -1,3 +1,8 @@
+---
+title: Poisson volant, porte bonus et mode furtif
+layout: post
+---
+
 TODO PHOTO
 
 Cette nuit, peu de changement à déclarer. Nous continuons sous spi lourd en direction des îles du Cap Vert.

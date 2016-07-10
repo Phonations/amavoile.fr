@@ -1,3 +1,8 @@
+---
+title: Qui à quel poste?
+layout: post
+---
+
 TODO PHOTO
 
 Mon quart de cuisine est fini. Enfin! Cuisiner pour 18 sur un bateau qui n'arrête pas de bouger, il y a plus reposant... Mais c'est aussi l'occasion de bonnes rigolades en voyant la vaisselle (en plastique heureusement) qui vole dans tout les sens, les quantités astronomiques de fromage et les caprices de certains qui conservent tout.

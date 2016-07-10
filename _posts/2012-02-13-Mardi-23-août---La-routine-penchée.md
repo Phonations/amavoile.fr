@@ -1,3 +1,8 @@
+---
+title: La routine penchée
+layout: post
+---
+
 TODO PHOTO
 
 Chacun trouve son rythme penché. Bannette chaude obligatoire pour aller dormir, tout se passe dans la moitié du bateau au vent. Les journées s’enchainent et se ressemblent. Peu de manœuvre et dès qu’une se présente, chacun se précipite. On essaye de s’occuper de soi et du bateau. Le temps est agréable et le fait d’avoir du vent apparent rend la vie beaucoup moins étouffante. La mer s’est calmée et ça tape beaucoup moins. Mais certains ont fait les frais de la mer formée de la veille. Josh a ainsi été propulsé par une vague contre les haubans et sa cheville s’est coincée et tordue. Il se retrouve donc bloqué en position horizontale dans sa bannette…

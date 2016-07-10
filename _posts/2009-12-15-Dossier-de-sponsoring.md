@@ -1,3 +1,8 @@
+---
+title: Dossier de sponsoring
+layout: post
+---
+
 Bonsoir,
 
 Comme je vais tacher d'être assidu dans la mise à jour de ce blog, je publie un nouveau message dès le lendemain de la création. Mais ne prenez pas de mauvaises habitudes ;-)

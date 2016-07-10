@@ -1,3 +1,8 @@
+---
+title: Mardi 2 août – A table!
+layout: post
+---
+
 TODO PHOTO
 
 Levé 5h ! Le petit déjeuner doit être prêt à 5h30 et aucun retard n’est toléré… Je suis de popote avec Keith avec qui j’avais déjà navigué il y a plus d’un an lors de mon premier entraînement. Ce premier repas est assez simple puisqu’il consiste en des céréales, du thé (et oui, je suis sur un bateau anglais…) et des fruits frais tant qu’il en reste. Pour le déjeuner et le dîner, il faut aller chercher dans les cales les sacs correspondants aux repas du jour. En effet, pour chaque jour nous avons emballé le plus hermétiquement possible les ingrédients nécessaires à la cuisine. Chaque sac a ensuite été rangé dans les cales en partant de l’avant vers l’arrière du bateau, les jours pairs à bâbord et impairs à tribord. Sacré organisation, obligatoire pour nourrir 18 personnes pendant un mois ou plus. 40 repas sont prévus au départ...

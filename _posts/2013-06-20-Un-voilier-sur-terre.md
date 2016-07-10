@@ -1,3 +1,8 @@
+---
+title: Un voilier sur terre
+layout: post
+---
+
 Le 17 juin dernier a été inauguré un bateau peu commun. Il s'agit en fait d'une éolienne à voile!
 
 Une éolienne à axe vertical qui permet d'exploiter toutes les directions du vents sans interruption.

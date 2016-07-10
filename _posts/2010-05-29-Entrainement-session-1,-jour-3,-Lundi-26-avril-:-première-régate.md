@@ -1,3 +1,8 @@
+---
+title: Entrainement session 1, jour 3, Lundi 26 avril : première régate
+layout: post
+---
+
 TODO PHOTO
 
 Après un réveil à 7h (6h pour moi pour prendre mon quart de veille) et un bon petit-déjeuner anglais nous partons vers 8h Grand voile haute, staysail et Yankee 1, le vent se fait désirer. Vient alors l'exercice de prise et de lâché de ris. Nous prenons jusqu'à trois ris, le tout en pleine pétole!!! On essaye d'optimiser la manœuvre pour la réaliser le plus rapidement possible. On pratique le changement de voile d'avant. Chronométrés nous mettons tous en œuvre pour le réaliser le plus rapidement possible. Pas vraiment le temps d'avoir froid surtout dans un solent bien calme et ensoleillé.

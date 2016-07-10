@@ -1,3 +1,8 @@
+---
+title: Le programme de 2011
+layout: post
+---
+
 2010 se termine et il est temps de passer à 2011 : l'année du départ. Cela va arriver vite puisque la première navigation est prévue dès fin février. Au programme : nouvelle session d'entraînement en Angleterre. J'espère qu'il y fera froid, qu'il y aura du vent et de la mer! Bref, que je vais galérer un petit peu ;-)
 
 Ensuite, si tout se passe bien, rendez-vous fin mars pour une traversée de la manche avec une partie de l'équipe de Corsica initiative. Ce sera l'occasion de tenter d'envoyer une caméra dans l'espace tout en essayant d'atteindre les [Iles Scilly](https://www.google.fr/maps/place/Sorlingues,+Royaume-Uni/@49.9361036,-6.3577974,13z/data=!3m1!4b1!4m5!3m4!1s0x48400eb6513ab54f:0x2fee448623152626!8m2!3d49.936111!4d-6.322778?hl=fr). Le récidivistes de la Corsica Initiative espèrent y trouver un peu plus de vent que l'été dernier afin de pouvoir hisser les voiles sans avoir à utiliser le moteur.

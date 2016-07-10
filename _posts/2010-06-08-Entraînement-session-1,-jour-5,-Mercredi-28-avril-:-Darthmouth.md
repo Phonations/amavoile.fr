@@ -1,3 +1,8 @@
+---
+title: Entraînement session 1, jour 5, Mercredi 28 avril : Darthmouth
+layout: post
+---
+
 TODO PHOTO
 
 Réveillés à 9h, je rejoint Dennis pour ma journée de « Mother watch » et donc la préparation du petit-déjeuner. La journée est plutôt facile pour nous puisque nous faisons escale à terre jusqu'à 14h et allons manger un fish'n chips. Un repas qui ne sera pas à cuisiner pour Dennis et moi! ;-)

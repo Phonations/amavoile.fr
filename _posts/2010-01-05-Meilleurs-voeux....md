@@ -1,3 +1,8 @@
+---
+title: Meilleurs voeux...
+layout: post
+---
+
 Les fêtes de fin d'année 2009 ont laissé la place à la nouvelle année 2010. J'espère que tout s'est bien passé que vous avez bien mangé, bien bu et bien festoyé.
 
 Pour ma part une gastro m'a cloué au lit le soir du 31! J'espère ne pas avoir brulé mes jockers et que je ne vais pas tomber malade en mer...

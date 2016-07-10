@@ -1,3 +1,8 @@
+---
+title: Entraînement session 1, jour 7, Vendredi 30 avril : The Olympics!
+layout: post
+---
+
 TODO PHOTO
 
 Debout à 7h, nous nous préparons pour la course : The Olympics!

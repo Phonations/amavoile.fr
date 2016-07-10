@@ -1,3 +1,8 @@
+---
+title: Entraînement session 1, jour 4, Mardi 27 avril : navigation de nuit
+layout: post
+---
+
 TODO PHOTO
 
 Comme chaque jour le réveil sonne à 7h et après le petit déjeuner nous nous retrouvons à 8 heures sur le pont. Cette fois le départ du port attend un peu puisque nous nous exerçons à hisser le bras de spi. Après plusieurs essais de la manœuvre, nous montons chacun notre tour en bout de tangon pour simuler la manœuvre d'affalage de spi. Il s'agit d'aller ouvrir la manille d'écoute de spi en bout de tangon.

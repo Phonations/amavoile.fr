@@ -1,3 +1,8 @@
+---
+title: Changement de dernière minute
+layout: post
+---
+
 TODO PHOTO
 
 Changement de dernière minute ! Alors que nous nous apprêtions à passer à l’Ouest, nous passons finalement à l’Est. Ou plutôt au milieu. Il semble qu’il y ait plus de vent… Nous concédons donc un peu de terrain et sommes maintenant troisième. Mais la pression est bien là donc ce n’est pas trop mal. On verra plus tard ce que ça donnera…

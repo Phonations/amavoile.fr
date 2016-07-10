@@ -1,3 +1,8 @@
+---
+title: Lundi 1er août – Top départ!
+layout: post
+---
+
 TODO PHOTO
 
 Après une semaine de préparation du bateau, nous voici donc partis depuis un peu plus de 24h. La semaine précédente a été intensive et fatigante mais très instructive. On entre dans les entrailles du bateau et tout est passé en revu. Les toilettes sont démontées pour être nettoyées, chaque cordage est remplacé. Check-up complet de A à Z !!!

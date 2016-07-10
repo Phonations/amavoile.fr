@@ -1,3 +1,8 @@
+---
+title: Bonne année!
+layout: post
+---
+
 Bonjour à tous,
 
 J'espère que vous avez passer un joyeux noel et que vous avez tous bien mangé.

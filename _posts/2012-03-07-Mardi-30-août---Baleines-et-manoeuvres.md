@@ -1,3 +1,8 @@
+---
+title: Baleines et manoeuvres
+layout: post
+---
+
 TODO PHOTO
 
 Le meeting quotidien de la veille a été agrémenté de plusieurs baleines. Spectacle magnifique!!!

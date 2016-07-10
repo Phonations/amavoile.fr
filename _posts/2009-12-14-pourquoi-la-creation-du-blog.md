@@ -1,3 +1,8 @@
+---
+title: Pourquoi lq création du blog ?
+layout: post
+---
+
 En 2011-2012 aura lieu la Clipper Round the World race.
 Il s'agit d'une course à la voile autour du monde, par étapes et en équipage.
 La particularité de cette course est qu'elle est destinée aux amateurs.

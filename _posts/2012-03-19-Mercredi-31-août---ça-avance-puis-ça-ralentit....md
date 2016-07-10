@@ -1,3 +1,8 @@
+---
+title: Ça avance puis ça ralentit...
+layout: post
+---
+
 TODO PHOTO
 
 La nuit a été chargée encore une fois. D'abord du bon vent avec des rafales à 30 noeuds avant un calme plat et une vitesse de 0,00 noeud!
