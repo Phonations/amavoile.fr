@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 4, Mardi 27 avril : navigation de nuit
+title: Entraînement session 1, jour 4 &#58; navigation de nuit
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 5, Mercredi 28 avril : Darthmouth
+title: Entraînement session 1, jour 5 &#58; Darthmouth
 layout: post
 ---
 

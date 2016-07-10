@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 6, Jeudi 29 avril : le « pole swinging »
+title: Entraînement session 1, jour 6 &#58; le « pole swinging »
 layout: post
 ---
 

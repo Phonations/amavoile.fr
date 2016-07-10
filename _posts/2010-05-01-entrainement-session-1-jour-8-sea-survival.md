@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 8, Samedi 1er mai : sea survival
+title: Entraînement session 1, jour 8 &#58; sea survival
 layout: post
 ---
 

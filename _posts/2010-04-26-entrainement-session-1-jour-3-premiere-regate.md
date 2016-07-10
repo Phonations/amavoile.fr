@@ -1,5 +1,5 @@
 ---
-title: Entrainement session 1, jour 3, Lundi 26 avril : première régate
+title: Entrainement session 1, jour 3, &#58; première régate
 layout: post
 ---
 

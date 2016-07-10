@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 2, Dimanche 25 Avril : Première navigation
+title: Entraînement session 1, jour 2 &#58; Première navigation
 layout: post
 ---
 

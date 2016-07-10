@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 7, Vendredi 30 avril : The Olympics!
+title: Entraînement session 1, jour 7 &#58; The Olympics!
 layout: post
 ---
 

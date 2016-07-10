@@ -1,5 +1,5 @@
 ---
-title: Entraînement session 1, jour 1, Samedi 24 Avril : sécurité et rencontre de l’équipage
+title: Entraînement session 1, jour 1, &#58; sécurité et rencontre de l’équipage
 layout: post
 ---
 
