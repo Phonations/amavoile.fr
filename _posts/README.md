@@ -1,3 +1,0 @@
-# Amavoile.fr
-
-Le blog
