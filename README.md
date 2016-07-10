@@ -1,4 +1,6 @@
-# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
+# Amavoile
+
+[![Build Status](https://travis-ci.org/Phonations/amavoile.fr.svg?branch=gh-pages)](https://travis-ci.org/Phonations/amavoile.fr)
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
