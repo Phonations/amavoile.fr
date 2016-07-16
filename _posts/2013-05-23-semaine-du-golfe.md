@@ -3,7 +3,7 @@ title: Semaine du Golfe
 layout: post
 ---
 
-TODO PHOTO
+![Semaine du Golfe]({{ site.baseurl }}assets/semaine-du-golfe.jpg)
 
 Tout les deux ans depuis 2001, le Golfe du Morbihan prend un air de festivité durant la semaine de l’ascension. En effet, au cours de cette [semaine du Golfe](http://www.semainedugolfe.com/), ce sont plus de milles embarcations qui se rencontrent sur l’eau pour une manifestation nautique au travers des îles du Golfe.
 
