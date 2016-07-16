@@ -13,4 +13,7 @@ Certes la production en électricité n'est pas élevée mais c'est beau et à p
 
 Enjoy!
 
-http://vimeo.com/user14661079/httpvimeocomvoileo
+{% include vimeo.html
+    id="53446233"
+%}
+
