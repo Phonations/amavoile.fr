@@ -3,7 +3,7 @@ title: Et jour avec!
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/jour-avec.jpg)
 
 Autant hier était une journée difficile, autant aujourd'hui ça va mieux! Ce long bord penché voie s'alterner bon et moins bon. Il suffit probablement d'une belle nuit étoilée suivie d'une superbe matinée ensoleillée pour remettre le bonhomme d'aplomb.
 

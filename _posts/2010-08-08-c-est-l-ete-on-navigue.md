@@ -11,7 +11,9 @@ La prochaine étape de la course devrait se situer fin novembre pour une nouvell
 
 En attendant je me suis occupé de vérifier la taille des vêtements de mer fournis par Clipper Venture. ça ressemble à ça:
 
-TODO PHOTO EQUIPEMENT
+![]({{ site.baseurl }}assets/salopette.jpg)
+![]({{ site.baseurl }}assets/veste2.jpg)
+![]({{ site.baseurl }}assets/veste.jpg)
 
 Autant vous dire de suite que l'essayage c'est transformé en une bonne suée! Je crois qu'avec cet équipement je serai paré pour tout affronter!!! Maintenant il faut que je pense aux bottes...
 

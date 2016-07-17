@@ -8,7 +8,7 @@ Départ vendredi 23 avril direction [Gosport](https://www.google.fr/maps/place/G
 
 Au programme, navigation, théorie, nuits en mer, tactique de course et premiers exercices de survie en mer. En gros ça donne ça (Bon, j'espère que vous arrivez à lire quelque chose ;o)) :
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/trainingsession1.jpg)
 
 A noter que tout est en anglais et que cela implique qu'il va falloir réviser ses termes techniques spécifiques à la navigation...
 

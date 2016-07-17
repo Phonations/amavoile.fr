@@ -3,7 +3,7 @@ title: Fin du voyage, début de la suite...
 layout: post
 ---
 
-TODO PHOTO
+![L'équipe]({{ site.baseurl }}assets/singapore2.jpg)
 
 Après un mois en mer, autour de 5000 milles parcourus, avoir traversé le pot-aux-noirs, cassé le système de barre, déchiré un spi, fini cinquième à Madère, vécu une belle aventure avec mes 17 autres compères et être arrivé troisième à Rio, je n'ai finalement pas été accueilli par les amis venus me voir au Brésil. Et oui, alors que nous prévoyions une arrivée entre le 2 et le 5 septembre, nous sommes arrivés le premier. Du coup c'est moi qui suis allé les accueillir à l'aéroport...
 

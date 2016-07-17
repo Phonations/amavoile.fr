@@ -3,7 +3,7 @@ title: Un breton chez les anglais
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/p4150448.jpg)
 
 Me voici donc de retour d'une semaine d'entraînement dans le cadre de la Clipper Race. Autant dire de suite que l'expérience a été tout simplement excellente et que je suis impatient d'être à la prochaine étape, à savoir la seconde session d'entraînement (et la troisième et la quatrième et même la course ;-)).
 

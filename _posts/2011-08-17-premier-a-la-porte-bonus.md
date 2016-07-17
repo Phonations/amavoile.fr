@@ -3,7 +3,7 @@ title: Premier à la porte bonus!
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/premier-a-la-porte-bonus.jpg)
 
 Cette nuit nous avons passé la porte bonus en première position. Trois points dans la besace et la bonne humeur est de mise ! Par contre le vent a nettement molli et nous avançons à peine à 6-7 nœuds. C’est le programme des prochains jours, si ce n’est pire, avant de toucher les alizés de l’hémisphère sud.
 

@@ -3,7 +3,7 @@ title: Entraînement session 1, jour 7 &#58; The Olympics!
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/p41905101.jpg)
 
 Debout à 7h, nous nous préparons pour la course : The Olympics!
 

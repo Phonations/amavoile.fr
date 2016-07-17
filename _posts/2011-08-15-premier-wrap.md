@@ -3,7 +3,7 @@ title: Premier wrap
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/premier-wrap.jpg)
 
 Jour de l'anniversaire de Gwen. Bon anniversaire!!!
 

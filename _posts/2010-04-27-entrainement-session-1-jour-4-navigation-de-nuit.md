@@ -3,7 +3,7 @@ title: Entraînement session 1, jour 4 &#58; navigation de nuit
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/p4160455.jpg)
 
 Comme chaque jour le réveil sonne à 7h et après le petit déjeuner nous nous retrouvons à 8 heures sur le pont. Cette fois le départ du port attend un peu puisque nous nous exerçons à hisser le bras de spi. Après plusieurs essais de la manœuvre, nous montons chacun notre tour en bout de tangon pour simuler la manœuvre d'affalage de spi. Il s'agit d'aller ouvrir la manille d'écoute de spi en bout de tangon.
 
@@ -11,7 +11,7 @@ Une fois l'exercice répété plusieurs fois, nous reprenons la mer. Nous sommes
 
 Une fois le spi affalé, lainé et rangé dans son sac, nous nous préparons pour la nuit que nous allons passé au moteur (faute de vent) en direction de Darthmouth. Notre quart, constitué de Steve, Ian, Sophie et moi et dirigé par Merv, est baptisé « top notch watch » alors que l'autre se fait appeler le « bay watch ». Nous prenons le premier quart de 20h à 23h. Le soleil se couche et les lumières des navires ou des villes côtières s'allument. L'occasion pour un petit rafraîchissement du code. Même si la zone géographique est la même et que les couleurs sont donc identique à la France, je me mélange un peu les pinceaux en raisonnant en anglais.
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/p4160458.jpg)
 
 Le quart crée indéniablement des liens plus fort entre les membres. Les discussions dans un petit groupe sont plus faciles. Enfin, ce n'est pas forcément vrai pour tous puisque qu'avec la fatigue qui se fait sentir, ma conversation anglaise se limite de plus en plus. Mais ceci ne m'empêche pas de participer à la bonne marche du bateau (malheureusement au moteur toujours) en prenant un peu la barre, en remplissant le journal de bord ou encore en participant à la veille visuelle. Tout ceci en buvant thé sur thé évidemment!
 

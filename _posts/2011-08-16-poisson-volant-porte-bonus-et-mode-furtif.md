@@ -3,7 +3,7 @@ title: Poisson volant, porte bonus et mode furtif
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/poisson-volant.jpg)
 
 Cette nuit, peu de changement à déclarer. Nous continuons sous spi lourd en direction des îles du Cap Vert.
 La nuit est noire et barrer sans repère visuel est difficile. Quelques poissons volants viennent perturber le silence méditatif en sautant sur le pont. Certains kamikazes viennent même jusqu’à agresser des équipiers. Je suis chanceux et ne suis pas visé…

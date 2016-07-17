@@ -3,7 +3,7 @@ title: Baleines et manoeuvres
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/baleine-manoeuvre.jpg)
 
 Le meeting quotidien de la veille a été agrémenté de plusieurs baleines. Spectacle magnifique!!!
 

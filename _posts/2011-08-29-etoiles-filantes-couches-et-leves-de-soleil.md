@@ -1,9 +1,9 @@
 ---
-title: Étoiles filances, couchés et levés de soleil
+title: Étoiles filantes, couchés et levés de soleil
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/etoiles-filantes.jpg)
 
 Après une nuit calme et étoilée le soleil se lève et le vent a suffisamment tourné pour envoyer le spi. Spi medium forcément puisque le spi lourd est toujours hors d'usage...
 

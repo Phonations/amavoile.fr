@@ -3,7 +3,7 @@ title: Entraînement session 1, jour 2 &#58; Première navigation
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/p4140439.jpg)
 
 Après une nuit bercée par les ronflements de certains, nous nous levons à 7h. Sophie et Emma sont à la cuisine pour nous préparer le petit déjeuner. C'est leur quart d'entretiens, le « mother watch ». Elles seront nos mères pour la journée...
 

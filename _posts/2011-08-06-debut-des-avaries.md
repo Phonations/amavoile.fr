@@ -3,7 +3,7 @@ title: Samedi 6 août – Début des avaries
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/avaries.jpg)
 
 Que s'est-il passé ces dernières 48 dernières heures? Nous sommes passés par pas mal de conditions différentes. Du calme plat à 35 noeuds de vent établi, du sec au trempé jusqu'aux os. Des gilets de sauvetage se sont gonflés suite à la rencontre avec des vagues énormes... Une petite baisse de régime passagère m'a rendu un peu associable par moment mais me voici de retour dans la partie.
 

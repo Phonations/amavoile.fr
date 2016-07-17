@@ -3,7 +3,7 @@ title: Southampton – Rio en bateau et personne ne tombe à l’eau!
 layout: post
 ---
 
-TODO PHOTO
+![]({{ site.baseurl }}assets/southampton.jpg)
 
 Et voilà, après une longue préparation, des vacances dédiées à cette aventure, plein de rencontres au cours du chemin me voici de retour à une vie un peu plus normale après cette belle aventure qui m'a menée de Southampton en Angleterre, jusqu'à Rio de Janeiro au Brésil.
 
