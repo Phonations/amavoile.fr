@@ -5,4 +5,5 @@ branches:
 sudo: false
 script: bundle exec jekyll build
 notifications:
+  email: false
   slack: poissonpilote:bSR1RmjhjZ3CSGPFN12WAODJ
