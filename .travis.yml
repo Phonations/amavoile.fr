@@ -1,6 +1,9 @@
 language: ruby
 rvm:
 - 2.3
+branches:
+  only:
+    - gh-pages
 sudo: false
 script: bundle exec jekyll build
 notifications:
