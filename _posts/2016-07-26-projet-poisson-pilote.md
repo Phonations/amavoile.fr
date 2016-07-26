@@ -7,7 +7,7 @@ layout: post
 
 Cet été aura lieu une expédition hors du commun. Pas à la voile mais bien en mer et à propulsion humaine. Au programme, une traversée de la Manche entre Plymouth et Saint-Malo en pédalant au fond de la Manche.  
 Antoine et Michael vont relever le défi de réaliser cette traversée dans un petit sous-marin à la seule force de leur jambes.  
-Pour réaliser cet exploit ils ont conçu et construit un petit sous-marin prototype digne du professeur Tournesol. 
+Pour réaliser cet exploit ils ont conçu et construit [un petit sous-marin prototype digne du professeur Tournesol](http://www.leparisien.fr/societe/la-manche-en-sous-marin-a-pedales-23-07-2016-5988415.php#xtor=AD-1481423551). 
 
 L’expédition est suivie en surface par deux bateau. A bord du Fortitude, l’équipe d’Amavoile assurera un certain nombre d’activité. Au programme:
 
@@ -18,4 +18,4 @@ L’expédition est suivie en surface par deux bateau. A bord du Fortitude, l’
 
 D’autre part, cette expérience étant aussi une expérience de voile pédagogique, le Fortitude embarquera quelques matelots plus ou moins débutant. Dans la lignée du blog, la transmission de connaissance sera de mise afin que tout le monde puisse être actif sur le bateau et reparte avec une expérience de voile significative à l’issue du voyage.
 
-Pour suivre l’expédition, rendez-vous sur le site http://projetpoissonpilote.com et suivez nous sur facebook et twitter.
+Pour suivre l’expédition, rendez-vous sur le site http://projetpoissonpilote.com et suivez nous sur [Facebook](https://www.facebook.com/projetpoissonpilote) et [Twitter](https://twitter.com/pjpoissonpilote).
