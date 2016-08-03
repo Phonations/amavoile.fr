@@ -13,8 +13,8 @@ email: pierig.bertho@gmail.com
 name: Pierig Bertho
 description: > 
   Et si on parlait de bateaux?
-baseurl: "/amavoile.fr/" # the subpath of your site, e.g. /blog/
-url: "https:/phonations.github.com/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https:/www.amavoile.fr/" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
